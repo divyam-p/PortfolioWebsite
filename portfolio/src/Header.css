@@ -1,8 +1,9 @@
 .header {
   width: 70%;
   align-items: center;
-  height: 36vh;
-  background-color: black;
+  height: 30vh;
+  background-color: none;
+  font-family: "Montserrat", sans-serif;
 }
 
 .headerButtons {
