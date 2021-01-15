@@ -1,0 +1,21 @@
+.header {
+  width: 70%;
+  align-items: center;
+  height: 36vh;
+  background-color: black;
+}
+
+.headerButtons {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.headerName {
+  font-family: Impact;
+  font-size: 8rem;
+  width: 100%;
+  text-align: center;
+  color: rgb(182, 26, 26);
+}
