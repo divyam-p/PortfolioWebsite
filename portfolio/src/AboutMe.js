@@ -1,7 +1,6 @@
 import React from 'react'
 import './AboutMe.css'
 import Jumbotron from 'react-bootstrap/Jumbotron'
-import Button from 'react-bootstrap/Button'
 import { HiOutlineMail } from 'react-icons/hi'
 import { SiLinkedin } from 'react-icons/si'
 import { VscGithub } from 'react-icons/vsc'
@@ -31,7 +30,7 @@ function AboutMe(){
                             <VscGithub className="iconStyle"/>
                         </a>
                         <a href="https://drive.google.com/file/d/1rsrfkWVrW3UMBstpGsUhopt6aGJ1Nn5M/view?usp=sharing" rel="noreferrer" target="_blank">
-                            <Icon className="iconStyle" size={36} icon={compose} />
+                            <Icon className="iconStyle" size={50} icon={compose} />
                         </a>
                     </div>
                 </div>
