@@ -7,7 +7,7 @@ import { VscGithub } from 'react-icons/vsc'
 
 function Projects({projects}) {
     return (
-        <div className="projects">
+        <div className="projects" id="projects">
             <h1 className="projectsTitle">Projects</h1> 
             { 
             projects.map((project) => (

@@ -4,7 +4,7 @@ import Card from 'react-bootstrap/Card'
 
 function Experiences({experiences}) {
     return (
-        <div className="experiences">
+        <div className="experiences" id="experiences">
             <h1 className="experienceTitle">Experience</h1> 
             { 
             experiences.map((experience) => (

@@ -9,7 +9,7 @@ import { Icon } from 'react-icons-kit'
 
 function AboutMe(){
     return (
-        <div className="aboutMe">
+        <div className="aboutMe" id="aboutMe">
             <Jumbotron>
                 <div className="aboutMeContent">
                     <h1 id="aboutMeHeader">Hey, I'm Divyam ;)</h1>
