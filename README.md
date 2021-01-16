@@ -10,3 +10,7 @@
 ## Deployment 
 
 ### with Netlify at https://divyampatel.netlify.app/
+
+### Note 
+
+* This is a work in progress as I'm trying to improve and update it constantly. 
