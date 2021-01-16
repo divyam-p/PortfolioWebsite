@@ -1,4 +1,4 @@
-<h3 align="center">Personal Website</h3>
+<h1 align="center">Personal Website</h1>
 
 # Built With 
 * React 
