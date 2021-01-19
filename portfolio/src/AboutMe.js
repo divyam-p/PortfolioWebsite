@@ -12,7 +12,7 @@ function AboutMe(){
         <div className="aboutMe" id="aboutMe">
             <Jumbotron>
                 <div className="aboutMeContent">
-                    <h1 id="aboutMeHeader">Hey, I'm Divyam ;)</h1>
+                    <h1 id="aboutMeHeader">Hey, I'm Divyam</h1>
                     <div className="aboutMeDescription">
                     <p>
                     I'm a third year Co-op Computer Science student at University of Toronto Scarborough (UTSC), specializing in the Software Engineering Stream. 

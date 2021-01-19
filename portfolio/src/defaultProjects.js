@@ -3,19 +3,19 @@ const projects = [
         name: "Shopping Website (Eternity)", 
         gitLink: "https://github.com/divyam-p/Eternity",
         description: "- Individually taking initiative to learn technologies such as React, and further extending knowledge on JavaScript, Node.js, MongoDB and ExpressJS to create a well-established online shopping site using MERN stack \n - Using JSON Web Token to implement a secure login and register for website", 
-        technologies: "React \n Node.js \n MongoDB \n ExpressJS \n JSON Web Token"
+        technologies: "React \n Node.js \n MongoDB \n ExpressJS \n JSON Web Token \n HTML \n CSS"
     },
     { 
         name: "Portfolio Website", 
         gitLink: "", 
-        description: "- Implementing a personal website showcasing my interests, projects, experiences, and more using React with BootStrap, resulting in efficiency in website creation\n - Hosted using Netlify", 
-        technologies: "React \n BootStrap"
+        description: "- Implementing a personal website showcasing my interests, projects, experiences, and more using React with Bootstrap, resulting in efficiency in website creation\n - Hosted using Netlify", 
+        technologies: "React \n Bootstrap \n JavaScript \n HTML \n CSS"
     },
     {
         name: "eLearning Website (U-Impactify)", 
         gitLink: "https://github.com/divyam-p/U-Impactify", 
         description: "- Collaborated with team members while following the Agile Development Framework and using software tools such as Git, and Jira to create an eLearning Website using MEAN stack and REST software architectural style \n - Effectively Interacted with team members through daily scrum meetings and creating user stories while assigning story points, CRC cards, and assuring software design patterns are met to deliver a well-built project \n - Independently and quickly learned technologies needed for project including HTML, CSS, Angular, JavaScript / TypeScript, and NoSQL databases to meet project deadlines",
-        technologies: "AngularJS \n Node.js \n MongoDB \n ExpressJS \n Chart.js \n ngx-file-drop \n Clarity \n Figma"
+        technologies: "AngularJS \n Node.js \n MongoDB \n ExpressJS \n Chart.js \n ngx-file-drop \n Clarity \n Figma \n HTML \n CSS"
     }, 
     {
         name: "Spotify API Clone", 
@@ -33,7 +33,7 @@ const projects = [
         name: "Card Game", 
         gitLink: "https://github.com/divyam-p/GoFishCardGame", 
         description: "- Individually created a detailed Go Fish card game using Java, with a visual component, resulting in a good understanding of Java object-oriented programming \n - Problem-Solved and troubleshot extensively when trying to implement an artificial intelligence component for the computer player, helping acquire knowledge on the topic",
-        technologies: "Java"
+        technologies: "Java \n Repl.it"
     }, 
     { 
         name: "Real Life Simulation of the Spread of Diseases through Electronic Voting", 
