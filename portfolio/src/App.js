@@ -8,8 +8,6 @@ import Experiences from './Experiences.js'
 import experiences from './defaultExperiences.js'
 import { BrowserRouter } from 'react-router-dom' 
 import Particles from 'react-particles-js' 
-import { SiCircle } from 'react-icons/si'
-import { HiPlusCircle } from 'react-icons/hi'
 
 const App = () => {
   return (
