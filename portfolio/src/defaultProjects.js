@@ -2,12 +2,12 @@ const projects = [
     { 
         name: "Shopping Website (Eternity)", 
         gitLink: "https://github.com/divyam-p/Eternity",
-        description: "- Individually taking initiative to learn technologies such as React, and further extending knowledge on JavaScript, Node.js, MongoDB and ExpressJS to create a well-established online shopping site using MERN stack \n - Using JSON Web Token to implement a secure login and register for website", 
+        description: "- Individually taking initiative to learn technologies such as React, and further extending knowledge on JavaScript, Node.js, MongoDB and ExpressJS to create a well-established online shopping site using MERN stack \n - Using JSON Web Token to implement a secure login and register for website \n - Hosted using Heroku", 
         technologies: "React \n Node.js \n MongoDB \n ExpressJS \n JSON Web Token \n HTML \n CSS"
     },
     { 
         name: "Portfolio Website", 
-        gitLink: "", 
+        gitLink: "https://github.com/divyam-p/PortfolioWebsite", 
         description: "- Implementing a personal website showcasing my interests, projects, experiences, and more using React with Bootstrap, resulting in efficiency in website creation\n - Hosted using Netlify", 
         technologies: "React \n Bootstrap \n JavaScript \n HTML \n CSS"
     },
