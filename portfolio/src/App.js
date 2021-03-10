@@ -12,7 +12,7 @@ import Particles from 'react-particles-js'
 const App = () => {
   return (
     <div className="main">
-      <div className="particles"> 
+      {/* <div className="particles"> 
         <Particles 
         params={{
             		particles: {
@@ -25,7 +25,7 @@ const App = () => {
             			}
             		}
             	}}/>
-      </div>
+      </div> */}
       <BrowserRouter>
         <Header />
         <AboutMe id="about"/>
