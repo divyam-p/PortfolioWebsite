@@ -29,7 +29,7 @@ function AboutMe(){
                         <a href="https://github.com/divyam-p" rel="noreferrer" target="_blank">
                             <VscGithub className="iconStyle"/>
                         </a>
-                        <a href="https://drive.google.com/file/d/1rsrfkWVrW3UMBstpGsUhopt6aGJ1Nn5M/view?usp=sharing" rel="noreferrer" target="_blank">
+                        <a href="https://drive.google.com/file/d/1YGzj0ntFRr_tyJ777KVxwvUoHtO8bTaR/view?usp=sharing" rel="noreferrer" target="_blank">
                             <Icon className="iconStyle" size={50} icon={compose} />
                         </a>
                     </div>
