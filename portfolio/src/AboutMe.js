@@ -17,7 +17,7 @@ function AboutMe(){
                     <p>
                     I'm a third year Co-op Computer Science student at University of Toronto Scarborough (UTSC), specializing in the Software Engineering Stream. 
                     </p>
-                    <h5>CGPA: 3.94 [Scale 4.0]</h5>
+                    <h5>CGPA: 3.89 [Scale 4.0]</h5>
                     </div>
                     <div className="aboutMeIcons">
                         <a href="mailto:divyam.patel@mail.utoronto.ca">
